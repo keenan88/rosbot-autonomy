@@ -17,6 +17,8 @@ To start Gazebo simulator run:
 just start-gazebo-sim
 ```
 
+This will start the simulation and SLAM.
+
 ### Webots
 
 To start Webots simulator run:
